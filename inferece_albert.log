@@ -1,0 +1,74 @@
+2023-04-28 18:44:52,106 : paramiko.transport : INFO : Connected (version 2.0, client OpenSSH_7.6p1)
+2023-04-28 18:44:53,384 : paramiko.transport : INFO : Authentication (publickey) successful!
+2023-04-28 18:45:48,366 : root : INFO : Question:: A man is incarcerated in prison, and as his punishment he has to carry a one tonne bag of sand backwards and forwards across a field the size of a football pitch.  What is the one thing he can put in it to make it lighter?    Prediction --> 4  || Probability Distribution -->  throw :0.1484 |   bit :0.0632 |   gallon:0.0838 |  mouse :0.2529 |  hole:0.4517
+2023-04-28 18:46:20,296 : root : INFO : Question:: What has to be broken before you can use it?    Prediction --> 0  || Probability Distribution -->  egg:0.9987 |  clothes:0.0013
+2023-04-29 04:16:44,626 : root : INFO : Question:: Can the age go down with time?    Prediction --> 0  || Probability Distribution -->  Yes:0.83 |  No:0.0335 |  maybe:0.1366
+2023-04-29 04:16:54,770 : root : INFO : Question:: Can the age go up with time?    Prediction --> 0  || Probability Distribution -->  Yes:0.9214 |  No:0.0212 |  maybe:0.0574
+2023-04-29 10:48:11,782 : root : INFO : Question:: I cannot move but I can give life to others.who am I?    Prediction --> 3  || Probability Distribution -->  Hospital:0.0002 |  tree:0.0091 |   human:0.42 |  doctor:0.5707
+2023-04-29 10:48:41,709 : root : INFO : Question:: I cannot move but I can give life to others.who am I?    Prediction --> 2  || Probability Distribution -->  Hospital:0.0004 |  tree:0.0157 |   doctor:0.9839
+2023-04-29 10:48:55,902 : root : INFO : Question:: I cannot move but I can give life to others.who am I?    Prediction --> 1  || Probability Distribution -->  Hospital:0.0228 |  tree:0.9772
+2023-04-29 10:49:36,880 : root : INFO : Question:: I cannot move but I can give life to others.who am I?    Prediction --> 1  || Probability Distribution -->  Tree:0.2285 | plant:0.684 | clock:0.0096 | rock:0.0779
+2023-04-29 10:49:56,641 : root : INFO : Question:: I cannot move but I can give life to others.who am I?    Prediction --> 0  || Probability Distribution -->  Human:0.9318 | plant:0.0604 | clock:0.0009 | rock:0.0069
+2023-04-29 13:45:17,257 : root : INFO : Question:: I have a heart that doesn't beat,
+A mouth that doesn't speak,
+A golden head and a golden tail,
+But no body to be seen.    Prediction --> 2  || Probability Distribution -->  coin:0.1697 |  key:0.226 |  book:0.3451 |  feather:0.2591
+2023-04-29 13:46:37,634 : root : INFO : Question:: I have a heart that doesn't beat,
+A mouth that doesn't speak,
+A golden head and a golden tail,
+But no body to be seen.    Prediction --> 2  || Probability Distribution -->  coin:0.2592 |  key:0.3451 |   feather:0.3957
+2023-04-29 13:46:51,259 : root : INFO : Question:: I have a heart that doesn't beat,
+A mouth that doesn't speak,
+A golden head and a golden tail,
+But no body to be seen.    Prediction --> 1  || Probability Distribution -->  coin:0.4291 |  key:0.5709
+2023-04-29 13:47:05,304 : root : INFO : Question:: I have a heart that doesn't beat,
+A mouth that doesn't speak,
+A golden head and a golden tail,
+But no body to be seen.    Prediction --> 1  || Probability Distribution -->  coin:0.3303 |  book:0.6697
+2023-04-29 13:47:20,652 : root : INFO : Question:: I have a heart that doesn't beat,
+A mouth that doesn't speak,
+A golden head and a golden tail,
+But no body to be seen.    Prediction --> 0  || Probability Distribution -->  book:0.6697 |  coin:0.3303
+2023-04-29 13:48:23,665 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 0  || Probability Distribution -->  fire:0.2666 |  tree:0.2598 |  stone:0.2503 |  ice:0.2234
+2023-04-29 13:49:23,006 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 0  || Probability Distribution -->  fire:0.3433 |  tree:0.3345 |  stone:0.3222
+2023-04-29 13:49:54,338 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 2  || Probability Distribution -->  fire:0.3616 |  cat:0.2298 |  dog:0.4086
+2023-04-29 13:50:37,366 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 2  || Probability Distribution -->  fire:0.1456 |  cat:0.0926 | :0.7618
+2023-04-29 13:50:49,432 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 0  || Probability Distribution -->  fire:0.6112 |  cat:0.3888
+2023-04-29 13:51:01,416 : root : INFO : Question:: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me.    Prediction --> 2  || Probability Distribution -->  fire:0.2568 |  book:0.348 |  pen:0.3952
+2023-04-29 13:52:47,032 : root : INFO : Question:: What has four fingers and a thumb, but isn’t alive?    Prediction --> 2  || Probability Distribution -->  fire:0.003 |  book:0.2426 |  pen:0.3807 |  glove:0.3736
+2023-04-29 13:53:08,904 : root : INFO : Question:: What has four fingers and a thumb, but isn’t alive?    Prediction --> 2  || Probability Distribution -->  fire:0.0049 |  book:0.3944 |  glove:0.6007
+2023-04-29 13:53:26,246 : root : INFO : Question:: What has four fingers and a thumb, but isn’t alive?    Prediction --> 3  || Probability Distribution -->  fire:0.0027 |  book:0.2128 |  glove:0.3277 |  hand:0.4568
+2023-04-29 14:02:38,699 : root : INFO : Question:: What has four fingers and a thumb, but isn’t alive?    Prediction --> 3  || Probability Distribution -->  fire:0.0027 |  book:0.2128 |  glove:0.3277 |  hand:0.4568
+2023-04-29 14:30:34,423 : root : INFO : Question:: I am red when in use, black before use and white afterwards, what am I ?    Prediction --> 1  || Probability Distribution -->  coal:0.2122 | candle:0.6995 | bulb:0.0821 | data:0.0062
+2023-04-29 14:30:51,978 : root : INFO : Question:: I am red when in use, black before use, and white afterward, what am I?    Prediction --> 1  || Probability Distribution -->  coal:0.1499 | candle:0.713 | bulb:0.1317 | data:0.0054
+2023-04-29 14:31:00,983 : root : INFO : Question:: I am red when in use, black before use, and white afterward, what am I?    Prediction --> 1  || Probability Distribution -->  coal:0.2175 | charcoal:0.5836 | bulb:0.1911 | data:0.0078
+2023-04-29 14:40:04,863 : root : INFO : Question:: I am red when in use, black before use, and white afterward, what am I?    Prediction --> 1  || Probability Distribution -->  coal:0.1776 | charcoal:0.4793 | bulb:0.1574 | data:0.0064 | balloon:0.1792
+2023-04-29 14:40:16,314 : root : INFO : Question:: I am red when in use, black before use, and white afterward, what am I?    Prediction --> 1  || Probability Distribution -->  flower:0.0679 | charcoal:0.5432 | bulb:0.1784 | data:0.0073 | balloon:0.2032
+2023-04-29 14:40:31,075 : root : INFO : Question:: I am red when in use, black before use, and white afterward, what am I?    Prediction --> 1  || Probability Distribution -->  flower:0.0685 | charcoal:0.5473 | bulb:0.1792 | balloon:0.205
+2023-04-29 20:44:16,234 : root : INFO : Question:: 45+45    Prediction --> 1  || Probability Distribution -->  90:0.2175 |  100:0.269 |  101:0.2616 |  22:0.2519
+2023-04-29 20:44:54,734 : root : INFO : Question:: what is shorter than a stick    Prediction --> 0  || Probability Distribution -->  ant:0.8988 |  mountain:0.1012
+2023-04-29 20:45:07,539 : root : INFO : Question:: what is longer than a stick    Prediction --> 0  || Probability Distribution -->  ant:0.5875 |  mountain:0.4125
+2023-04-29 20:45:18,290 : root : INFO : Question:: what is not longer than a stick    Prediction --> 0  || Probability Distribution -->  ant:0.6751 |  mountain:0.3249
+2023-04-29 20:45:37,252 : root : INFO : Question:: is fever a disease    Prediction --> 0  || Probability Distribution -->  ant:0.6883 |  mountain:0.3117
+2023-04-29 20:45:46,698 : root : INFO : Question:: is fever a disease    Prediction --> 1  || Probability Distribution -->  yes:0.046 |  no:0.5684 |  maybe:0.3856
+2023-04-29 20:46:41,383 : root : INFO : Question:: what is female version of king    Prediction --> 0  || Probability Distribution -->  queen:0.2957 |  ace:0.2636 |  jack:0.2485 |  daughter:0.1922
+2023-04-29 20:46:52,563 : root : INFO : Question:: what is female version of king    Prediction --> 3  || Probability Distribution -->  queen:0.2107 |  ace:0.1879 |  jack:0.1771 |  female:0.4244
+2023-04-29 20:47:03,567 : root : INFO : Question:: what is female version of king    Prediction --> 0  || Probability Distribution -->  queen:0.2917 |  ace:0.2601 |  jack:0.2452 |  minister:0.2029
+2023-04-29 20:47:12,502 : root : INFO : Question:: what is female version of king    Prediction --> 0  || Probability Distribution -->  queen:0.3668 |  ace:0.3258 |  jack:0.3074
+2023-04-30 06:02:19,374 : root : INFO : Question:: what is female version of king    Prediction --> 0  || Probability Distribution -->  queen:0.3668 |  ace:0.3258 |  jack:0.3074
+2023-04-30 07:23:31,152 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.6719 |  candle:0.0174 |  egg:0.3107
+2023-04-30 07:37:00,685 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.6719 |  candle:0.0174 |  egg:0.3107
+2023-04-30 07:38:49,675 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 3  || Probability Distribution -->  sponge:0.2268 |  candle:0.0059 |  egg:0.1051 |  bucket:0.5261 |  cup:0.1361
+2023-04-30 07:50:02,063 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 3  || Probability Distribution -->  sponge:0.2268 |  candle:0.0059 |  egg:0.1051 |  bucket:0.5261 |  cup:0.1361
+2023-04-30 07:50:12,702 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 3  || Probability Distribution -->  sponge:0.2235 |  candle:0.0058 |  egg:0.1036 |  bucket:0.5185 |  cup:0.1342 |  hand:0.0056 |  spoon:0.0089
+2023-04-30 07:50:29,769 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 08:06:32,800 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 08:08:11,967 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 08:22:54,598 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 08:28:18,104 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 09:08:09,878 : root : INFO : Question:: What is full of holes but still holds water?    Prediction --> 0  || Probability Distribution -->  sponge:0.4642 |  candle:0.0121 |  egg:0.2151 |  cup:0.2786 |  hand:0.0115 |  spoon:0.0185
+2023-04-30 09:10:39,777 : root : INFO : Question:: You always break my heart when you see me in kitchen.    Prediction --> 2  || Probability Distribution -->  women:0.3167 |  kid:0.2594 |  cat:0.3744 |  egg:0.0283 |  pot:0.0212
+2023-04-30 09:11:01,308 : root : INFO : Question:: i am immovable but i am alive    Prediction --> 3  || Probability Distribution -->  man:0.2334 |  plant in a pot:0.1273 |  banyan tree:0.2505 |  batman:0.3887
+2023-04-30 09:12:01,561 : root : INFO : Question:: you always break my heart when you see me in the kitchen    Prediction --> 3  || Probability Distribution -->  women:0.0574 |  kid:0.1338 |  cat:0.1739 |  egg:0.3357 |  pot:0.2993
+2023-04-30 09:12:49,394 : root : INFO : Question:: You always break my heart when you see me in the kitchen.    Prediction --> 2  || Probability Distribution -->  women:0.2106 |  kid:0.3264 |  cat:0.3803 |  egg:0.0477 |  pot:0.035
+2023-04-30 09:13:11,477 : root : INFO : Question:: you always break my heart and cook me    Prediction --> 3  || Probability Distribution -->  women:0.1427 |  kid:0.0314 |  cat:0.0322 |  egg:0.4546 |  pot:0.3391
